@@ -45,7 +45,7 @@ This research could be improved by:
 One surprising thing from the data was how much more seasonal terms were in the hiking and skiing word cloud compared to the Mount Rainier cloud. I expected more similarities in words between the two datasets, but the results clearly show us that people talk about places and activities in different ways.
 
 ---
-    
+
 ## Word Clouds
 
 ### Mountain & Rainier Word Cloud
@@ -61,6 +61,6 @@ The processed datasets used to generate these word clouds can be downloaded here
 
 **CSV's:**  
 
-    [Download the CSV data file](https://raw.githubusercontent.com/PhilipKleemann/geog458_lab2/refs/heads/main/assets/search-result-1.csv)
+https://raw.githubusercontent.com/PhilipKleemann/geog458_lab2/refs/heads/main/assets/search-result-1.csv
 
-    [Download the CSV data file](https://raw.githubusercontent.com/PhilipKleemann/geog458_lab2/refs/heads/main/assets/search-result-2.csv)
+https://raw.githubusercontent.com/PhilipKleemann/geog458_lab2/refs/heads/main/assets/search-result-2.csv
