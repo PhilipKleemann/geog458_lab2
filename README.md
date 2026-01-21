@@ -61,8 +61,8 @@ The processed datasets used to generate these word clouds can be downloaded here
 
 **CSV's:**  
 
-    https://raw.githubusercontent.com/PhilipKleemann/geog458_lab2/refs/heads/main/assets/search-result-1.csv 
+    <a href="https://raw.githubusercontent.com/PhilipKleemann/geog458_lab2/refs/heads/main/assets/search-result-1.csv" download>Download the CSV data file</a>
 
-    https://raw.githubusercontent.com/PhilipKleemann/geog458_lab2/refs/heads/main/assets/search-result-2.csv
+    <a href=" https://raw.githubusercontent.com/PhilipKleemann/geog458_lab2/refs/heads/main/assets/search-result-2.csv" download>Download the CSV data file</a>
 
 
