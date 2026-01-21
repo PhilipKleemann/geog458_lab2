@@ -52,7 +52,7 @@ One surprising thing from the data was how much more seasonal terms were in the 
 ![Mountain and Rainier Word Cloud](img/wordcloud-1.png)
 
 ### Hiking & Skiing Word Cloud
-![Hiking and Skiing Word Cloud](img/wordcloud-2.png.png)
+![Hiking and Skiing Word Cloud](img/wordcloud-2.png)
 
 ---
 
